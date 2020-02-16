@@ -46,11 +46,6 @@ class  App extends React.Component {
               <td style={{width: '5%'}}>:</td>
               <td style={{width: '75%'}}>{t('description.value')}</td>
             </tr>
-            <tr>
-              <td style={{width: '20%'}}>{t('description.title')}</td>
-              <td style={{width: '5%'}}>:</td>
-              <td style={{width: '75%'}}>{t('description.value')}</td>
-            </tr>
           </tbody>
         </table>
       </div>
